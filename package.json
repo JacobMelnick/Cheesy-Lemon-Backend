@@ -1,0 +1,19 @@
+{
+  "name": "Cheesy-Lemon-Backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HR-RFP-53-Lampside/Cheesy-Lemon-Backend.git",
+  "author": "Luka Petricic <lukapetricic@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.26.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "morgan": "^1.10.0"
+  }
+}
